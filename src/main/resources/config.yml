@@ -1,0 +1,19 @@
+# Change this to wtv, idk what to set it to lol
+death-announce: "<white>%player% died!"
+
+# In minutes
+grace-period: 30
+
+teams:
+  plains:
+    display-name: "<blue>Plains"
+    spawn-location: "world,0,0,0"
+  jungle:
+    display-name: "<green>Jungle"
+    spawn-location: "world,0,0,0"
+  desert:
+    display-name: "<yellow>Desert"
+    spawn-location: "world,0,0,0"
+  mountains:
+    display-name: "<gray>Mountains"
+    spawn-location: "world,0,0,0"

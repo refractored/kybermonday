@@ -1,0 +1,5 @@
+name: kybermonday
+version: '1.0-SNAPSHOT'
+main: net.refractored.kybermonday.Kybermonday
+api-version: '1.21'
+depend: [PlaceholderAPI]
